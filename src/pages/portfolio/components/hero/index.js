@@ -64,7 +64,7 @@ function HeroBig () {
                                 <Anchor color='dark-1' icon={<Github/>} href='https://github.com/qthibodeaux' target='_blank'/>
                             </Tip>
                             <Tip content='Click to download my resume.'>
-                                <Anchor color='dark-1' icon={<DocumentDownload/>} href='myapp\public\QuintusThibodeauxResume92020.pdf' download/>
+                                <Anchor color='dark-1' icon={<DocumentDownload/>} href='myapp\public\QuintusResumeMTO.docx.pdf' download/>
                             </Tip>
                         </Box>
                     </Box> 

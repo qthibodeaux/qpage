@@ -1,5 +1,5 @@
-import { Box, Heading, Text, Button } from 'grommet'
-import { CaretRightFill, Code } from 'grommet-icons'
+import { Box, Heading, Button } from 'grommet'
+import { Code } from 'grommet-icons'
 
 function Skills () {
     return (

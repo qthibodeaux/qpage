@@ -1,9 +1,7 @@
-import { Box, Button, Image, Text } from 'grommet'
+import { Box, Image } from 'grommet'
 import { blags } from '../../../../bank'
 
-function BlogList () {
-    const name = blags.map(x => x.title)
-    
+function BlogList () {    
     return (
         <Box
             pad={{ top:'medium', bottom:'medium'}}
